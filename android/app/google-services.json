@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264097026518",
+    "firebase_url": "https://gumnaam-97681.firebaseio.com",
+    "project_id": "gumnaam-97681",
+    "storage_bucket": "gumnaam-97681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264097026518:android:223ed14b992781e17c1477",
+        "android_client_info": {
+          "package_name": "com.gulltee.gumnaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264097026518-nt9j150klqmrpve48ddch13gvnckibsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gulltee.gumnaam",
+            "certificate_hash": "1485205f5c63e80edd45d2acc4127e0b1ceec80b"
+          }
+        },
+        {
+          "client_id": "264097026518-pthv07e7gt2ok6bfh2uv4nd4gfrr2034.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0vz-8ZJVXBzUodPke2Q2qhhthGseTnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264097026518-pthv07e7gt2ok6bfh2uv4nd4gfrr2034.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
